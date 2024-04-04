@@ -1,7 +1,5 @@
 # 用户中心前端
 
-This project is initialized with [鱼皮用户中心](https://pro.ant.design). Follow is the quick guide for how to use.
-
 ## Environment Prepare
 
 Install `node_modules`:
