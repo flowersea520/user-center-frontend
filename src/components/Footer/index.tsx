@@ -3,7 +3,7 @@ import {DefaultFooter} from '@ant-design/pro-layout';
 import {PLANET_LINK} from "@/constants";
 
 const Footer: React.FC = () => {
-  const defaultMessage = '鱼皮出品';
+  const defaultMessage = 'lxc出品';
   const currentYear = new Date().getFullYear();
   return (
     <DefaultFooter
@@ -23,7 +23,7 @@ const Footer: React.FC = () => {
         },
         {
           key: 'github',
-          title: <><GithubOutlined/> 鱼皮 GitHub</>,
+          title: <><GithubOutlined/> lxc GitHub</>,
           href: 'https://github.com/liyupi',
           blankTarget: true,
         },
